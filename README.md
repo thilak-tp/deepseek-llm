@@ -13,3 +13,9 @@ This repository will contain me exploring the Deepseek LLM and different ways to
 <img src="resources/lmstudio.png" width="400" />
   It is a GUI LLM model runner which has a better interface, on par with other LLM chat interfaces.
   1. Install LM Studio and then in the app, choose the LLM model that you want to run.
+
+
+# Ollama
+## Deepseek R1 7B version 
+<img src="resources/r1_7b_vram_usage.png"width="400" />
+As seen the 7B parameter version uses around 5Gigs of VRAM on my NVIDIA RTX 3070 Ti Mobile GPU which has 8Gigs of VRAM
