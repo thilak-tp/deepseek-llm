@@ -17,5 +17,5 @@ This repository will contain me exploring the Deepseek LLM and different ways to
 
 # Ollama
 ## Deepseek R1 7B version 
-<img src="resources/r1_7b_vram_usage.png"width="400" />
+<img src="resources/r1_7b_vram_usage.png" width="400" />
 As seen the 7B parameter version uses around 5Gigs of VRAM on my NVIDIA RTX 3070 Ti Mobile GPU which has 8Gigs of VRAM
