@@ -33,3 +33,7 @@ curl http://localhost:11434/api/generate -d '{"model": "deepseek-r1:7b", "prompt
 ## 3. Using API requests in Python to get response to API calls
 basic_python_api/python_api_call_llm.py - This is a Python program that would hit the deepseek API endpoint which is locally running in ollama and provide a prompt and get the response from the LLM
 <img src="resources/python_request_api.png" width="500" />
+
+## 4. Using the Ollama Library in Python
+ollama_python_chat_stream.py and ollama_python_chat.py - This is a Python program taht would hit the Deepseek api but via the ollama library which is easy and straight forward. 
+<img src="resources/ollama_library_python.png" width="500" />
